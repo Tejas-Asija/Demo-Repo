@@ -1,3 +1,3 @@
 # Demo
 
-Creating a repo locally and pushing it to girhub
+Creating a repo locally and pushing it to github
